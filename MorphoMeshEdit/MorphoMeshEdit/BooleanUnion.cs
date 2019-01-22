@@ -21,7 +21,7 @@ namespace MorphoMesh
             this.Message = "VER 0.0.01\nDEC_10_2018";
         }
 
-        public override GH_Exposure Exposure => GH_Exposure.primary;
+        public override GH_Exposure Exposure => GH_Exposure.secondary;
 
         /// <summary>
         /// Registers all the input parameters for this component.

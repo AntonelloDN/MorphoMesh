@@ -143,6 +143,36 @@ namespace MorphoMeshEdit.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ReduceByEdge {
+            get {
+                object obj = ResourceManager.GetObject("ReduceByEdge", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReduceByTringle {
+            get {
+                object obj = ResourceManager.GetObject("ReduceByTringle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReduceByVertex {
+            get {
+                object obj = ResourceManager.GetObject("ReduceByVertex", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ReduceMesh {
             get {
                 object obj = ResourceManager.GetObject("ReduceMesh", resourceCulture);

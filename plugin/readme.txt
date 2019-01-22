@@ -6,7 +6,3 @@
 
 - Copy MorphoMesh folder in "C:\Users\USERNAME\AppData\Roaming\Grasshopper\Libraries"
 
-OR
-
-- Copy MorphoMesh_ folder in "C:\Users\USERNAME\AppData\Roaming\Grasshopper\Libraries", this version is for old Rhino6 version.
-

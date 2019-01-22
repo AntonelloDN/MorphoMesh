@@ -21,6 +21,8 @@ namespace MorphoMeshEdit
             this.Message = "VER 0.0.01\nGEN_20_2018";
         }
 
+        public override GH_Exposure Exposure => GH_Exposure.primary;
+
         /// <summary>
         /// Registers all the input parameters for this component.
         /// </summary>
