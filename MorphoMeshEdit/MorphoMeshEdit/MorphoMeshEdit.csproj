@@ -48,7 +48,7 @@
     </Reference>
     <Reference Include="MeshMorphoLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Nuova cartella (2)\MeshMorphoLib.dll</HintPath>
+      <HintPath>.\MeshMorphoLib.dll</HintPath>
     </Reference>
     <Reference Include="Rhino.UI, Version=6.0.18016.23451, Culture=neutral, PublicKeyToken=552281e97c755530, processorArchitecture=MSIL">
       <HintPath>..\packages\RhinoCommon.6.0.18016.23451\lib\net45\Rhino.UI.dll</HintPath>
