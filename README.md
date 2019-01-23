@@ -7,3 +7,5 @@ This plugin use geometry3Sharp library.
 
 ![MorphoMesh Example](https://github.com/AntonelloDN/MorphoMesh/blob/master/examples/example1.gif)
 
+# Dependencies
+geometry3Sharp.dll
